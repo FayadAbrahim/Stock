@@ -1,0 +1,12 @@
+{
+  "name": "stock-desk",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "yahoo-finance2": "^4.0.3"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
